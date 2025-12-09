@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VisionGuide",
+  "description": "An AI visual companion for the blind and low-vision users. It prioritizes safety, reasoning about the environment to provide clear, actionable spoken guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
